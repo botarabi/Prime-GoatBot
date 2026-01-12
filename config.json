@@ -13,7 +13,7 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "TOKI BOT 💀",
+  "nickNameBot": "TOKI BOT💀",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -21,12 +21,10 @@
   },
   "adminBot": [
     "61582950656412",
-    "100087625774227",
-    "61584035788710"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61557290571000",
+    "whiteListIds": ["61582950656412",
 "61584035788710",
       ""
     ],
