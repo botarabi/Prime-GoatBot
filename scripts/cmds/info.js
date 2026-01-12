@@ -21,9 +21,9 @@ module.exports = {
 
   onStart: async function ({ message }) {
 
-    const ownerName = "TOKITO💀";
+    const ownerName = "ARABI";
     const ownerAge = "20";
-    const ownerFB = "https://facebook.com/TOKITO.arabi";
+    const ownerFB = "https://www.facebook.com/share/17bVVAa5Gv/";
     const ownerNumber = "+88017XXXXXXX";
     const status = "Active";
 
@@ -34,7 +34,7 @@ module.exports = {
     const totalCommands = global.GoatBot?.commands?.size || 0;
 
     const images = [
-      "https://i.ibb.co/SD8SDxRp/597419756-1433777018750185-6513158348709492396-n-jpg-nc-cat-103-ccb-1-7-nc-sid-9f807c-nc-eui2-Ae-F.jpg"
+      "https://i.imgur.com/DURWZBt.jpeg"
     ];
     const image = images[Math.floor(Math.random() * images.length)];
 
